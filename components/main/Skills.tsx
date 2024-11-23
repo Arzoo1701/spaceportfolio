@@ -84,7 +84,7 @@ import {
               loop
               muted
               autoPlay
-              src="/cards-video.webm"
+              src="/Space%20Portfolio%20Assets/cards-video.webm"
             />
           </div>
         </div>

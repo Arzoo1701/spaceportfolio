@@ -63,6 +63,12 @@
 .scrollbar-hidden::-webkit-scrollbar {
   display: none;
 }
+.Education-image {
+  width: 100px; /* or any size you prefer */
+  height: 100px; /* or any size you prefer */
+  object-fit: contain; /* Image will be fully visible */
+  border-radius: 8px; /* Optional */
+}
 
 
 
