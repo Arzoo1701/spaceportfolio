@@ -1,7 +1,9 @@
 import Education from '@/components/main/Education'
 import Encryption from '@/components/main/Encryption'
+import Footer from '@/components/main/Footer'
 import Hero from '@/components/main/Hero'
 import Projects from '@/components/main/Projects'
+import Resume from '@/components/main/Resume'
 import Skills from '@/components/main/Skills'
 
 
@@ -14,6 +16,8 @@ export default function Home() {
         <Encryption />
         <Projects/>
         <Education/>
+        <Resume/>
+        <Footer/>
 
       </div>
       
